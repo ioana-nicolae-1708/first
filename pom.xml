@@ -14,12 +14,7 @@
            <version>0.1</version>
         </dependency>
 
-	<!-- https://mvnrepository.com/artifact/systems.manifold/manifold-json-rt -->
-<dependency>
-    <groupId>systems.manifold</groupId>
-    <artifactId>manifold-json-rt</artifactId>
-    <version>2020.1.29</version>
-</dependency>
+
 <!-- https://mvnrepository.com/artifact/systems.manifold/manifold-collections -->
 <dependency>
     <groupId>systems.manifold</groupId>
